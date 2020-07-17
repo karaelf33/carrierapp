@@ -1,0 +1,11 @@
+Case1
+
+1. part
+Magzanin locationunu çek 
+kurye nin lokasyonunu çek 
+kuryenin lokasyonu magzanin 10 metre yaiçaplik lokasyonuna girdi ve bir dakika içerde durdu ise
+Daily tabloma bu kaydi at
+
+
+--
+Ca
