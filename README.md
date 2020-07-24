@@ -15,6 +15,3 @@ Nasıl test edilir:
     "courierId":13123123
     "timestamp":'2020-07-16T15:27:12.232+00:00'
  },  
- 
- Not:Dockerize edip gönderecektim docker compose ile ayağa kaldırıp ama couchbase için dockerize edemedim.Bir iki ufak eksiklik olabilir.
- İş yoğunluğundan yetiştiremedim kusura bakmayın.Ama genel mantığı ile oturtumuş durumda.
